@@ -6,7 +6,8 @@
 
 
 # What does this contain?
- This repository contains the following list of items:
+ You can see a list [HERE](list.md).
+ 
 
 
 
